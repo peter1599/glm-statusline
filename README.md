@@ -5,9 +5,7 @@ GLM status line for claude code
 
 # Info
 
-API data reqfresh every 1 minute
-
-You are free to change that in the script
+## API data reqfresh every 1 minute. You are free to change that in the script
 
 # Setup
 
